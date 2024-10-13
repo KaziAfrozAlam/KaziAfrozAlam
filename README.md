@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **strengthening my skills in data structures and algorithms (DSA), particularly for improving my problem-solving abilities and preparing for technical interviews. Any guidance, resources, or mentorship would be greatly appreciated!**
 
-- 💬 Ask me about **HTML,CSS,JS,PYTHON, C/C++**
+- 💬 Ask me about **HTML,CSS,JS,PYTHON, C/C++, PHP, mySQL**
 
 - 📫 How to reach me **afrozalam.8760@gmail.com**
 
